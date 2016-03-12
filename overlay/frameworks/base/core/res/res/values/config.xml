@@ -135,10 +135,6 @@
          Used to decide if we show pulse settings -->
     <bool name="config_ledCanPulse">false</bool>
 
-    <!-- Default value for led color when battery is medium charged
-         We set this to red, same as low and charged is green -->
-    <integer name="config_notificationsBatteryMediumARGB">0xffff0000</integer>
-
     <!-- reference volume index for music stream to limit headphone volume and display warning -->
     <integer name="config_safe_media_volume_index">5</integer>
 
