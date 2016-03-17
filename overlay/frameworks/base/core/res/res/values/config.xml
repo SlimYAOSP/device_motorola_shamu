@@ -396,4 +396,7 @@
     <bool name="config_proximityCheckOnWake">true</bool>
     <integer name="config_proximityCheckTimeout">200</integer>
 
+  <!-- BatteryLED fast charge -->
+  <integer name="config_chargingFastThreshold">1300000</integer>
+
 </resources>
